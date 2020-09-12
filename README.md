@@ -13,6 +13,6 @@
 
 Graphic interface was made possible using ***XWindows***
 
-|   |     |   |
+|  start |  stepping   |  stepping...  |
 | --- | --- | --- |
 |<img src="https://github.com/XintongLi1/Cellular-Automata-Simulator/blob/master/Images/pulsar1.png" width="200" height="200">| <img src="https://github.com/XintongLi1/Cellular-Automata-Simulator/blob/master/Images/pulsar2.png" width="200" height="200"> | <img src="https://github.com/XintongLi1/Cellular-Automata-Simulator/blob/master/Images/pulsar3.png" width="200" height="200">

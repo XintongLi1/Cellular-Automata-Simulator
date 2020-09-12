@@ -8,4 +8,7 @@
 | steps n | Runs n steps of the simulation. |
 | print | Prints the grid |
 
+
 > For detailed information, please see [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+
+Graphic interface was made possible using ***XWindows***

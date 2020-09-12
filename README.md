@@ -13,4 +13,4 @@
 
 Graphic interface was made possible using ***XWindows***
 
-[Example Image 1](https://github.com/XintongLi1/Cellular-Automata-Simulator/blob/master/Images/pulsar1.png)
+![Example Image 1](https://github.com/XintongLi1/Cellular-Automata-Simulator/blob/master/Images/pulsar1.png)

@@ -1,0 +1,12 @@
+new 5
+init
+1 2
+2 2
+3 2
+-1 -1
+step print
+step print
+step print
+step print
+steps 100 print
+steps 101 print

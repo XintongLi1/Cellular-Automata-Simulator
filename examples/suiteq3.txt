@@ -1,0 +1,9 @@
+alien
+block
+blinker
+glider
+loaf
+spaceship
+toad
+pulsar
+random

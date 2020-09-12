@@ -12,3 +12,5 @@
 > For detailed information, please see [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 
 Graphic interface was made possible using ***XWindows***
+
+[Example Image 1](https://github.com/XintongLi1/Cellular-Automata-Simulator/blob/master/Images/pulsar1.png)
